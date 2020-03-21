@@ -1,13 +1,29 @@
 * {
     /* border: 1px solid #000;  */
     margin: 0px;
-    padding: 10px;
+    padding: 0px;
     box-sizing: border-box;
     font-family: 'Roboto Slab', serif;
-    /* background-color: black; */
-    /* color:  orange; */
-    
+    color: orange;
+    background-color: black;
+}
+
+header * {
+    padding: 10px;
    
 }
 
+body * {
+    padding: 10px;
+    color: orange;
+    background-color: black;
+}
+
+a {
+    color: orange;
+}
+
+a:hover {
+    color: orangered;
+}
 
